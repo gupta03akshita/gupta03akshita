@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> Hi, I'm Akshita! <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVycHk3NzFwYms5cmg1NzA2djQ3a2Jxa2J3dGs2NzkwdGRsZWl1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fSptAINJfyGe3oPHNZ/giphy.gif" width="50"></h2>
-<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzIwaHI2aGh0bGZhaDRmbDg0d2J6Y3B5amMwb205bXRqcG5ibms1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XFvrAjthX6yxVY1Ndx/giphy.gif" width="230">
+<h1> Hi, I'm Akshita! <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVycHk3NzFwYms5cmg1NzA2djQ3a2Jxa2J3dGs2NzkwdGRsZWl1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fSptAINJfyGe3oPHNZ/giphy.gif" width="70"></h1>
+<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzIwaHI2aGh0bGZhaDRmbDg0d2J6Y3B5amMwb205bXRqcG5ibms1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XFvrAjthX6yxVY1Ndx/giphy.gif"  width="280">
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">A sneak peek into my world...
+### 🌟A sneak peek into my world...
 
 ```javascript
 const Akshita = {
